@@ -27,7 +27,8 @@ HTML es el lenguaje marcado para buscar paginas osea se (Codigo)
 R=
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-R=
+R= Lo primero es instalar un software de seguridad, lo demas viene de nuestra parte. Tambien podemos usar diferentes IP, y no confiar en ningun correo
+email por mas confiable que parezca.
 
 8.¿Cómo funciona la búsqueda de Google?
 R=
