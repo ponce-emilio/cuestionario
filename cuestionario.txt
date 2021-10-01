@@ -4,7 +4,7 @@ José Emilio Ponce Ríos
 4F
 
 1. En tus palabras, ¿Qué es internet?
-R=
+R= El internet es una red de redes que se mueve por todos los dispositivos del mundo, este se mueve a partir de Bits que pueden viajar a la luza de la electricidad o la de la luz, dependiendo la velocidad que necesites, viajan a travez de ceros y unos que los conocemos coloquialmente como codigo binario.
 
 2. Describe los medios físicos y de propagación de ondas por las que se transmite la información en internet.
 R=
