@@ -6,3 +6,18 @@ R=
 
 3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R=
+
+4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañia a tu celular.
+R=
+
+5. Describe los protocolos que existen en internet, en específico HTTP y HTML.
+R=
+
+6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves píblicas.
+R=
+
+7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+R=
+
+8.¿Cómo funciona la búsqueda de Google?
+R=
