@@ -12,7 +12,8 @@ coloquialmente como codigo binario.
 R=
 
 3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-R=
+R=Todos los dispositivos estan conectados a una IP, esta da informacion a mas dispositivos en la red mediante direcciones del dispositivo
+como por ejemplo tu direccion (Pais Lugar). Funciona como una mensajeria que entrega los mensajes enviados
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañia a tu celular.
 R=
