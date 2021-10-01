@@ -19,7 +19,9 @@ como por ejemplo tu direccion (Pais Lugar). Funciona como una mensajeria que ent
 R=
 
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML.
-R=
+R=Hypertext Transfer Protocol (HTTP) en ingles, es un protocolo de navegacion que nos permite conectarnos con cualquier servidor que este conectado 
+a internet.
+HTML es el lenguaje marcado para buscar paginas osea se (Codigo)
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves píblicas.
 R=
