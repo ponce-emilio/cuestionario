@@ -1,1 +1,8 @@
 1. En tus palabras, ¿Qué es internet?
+R=
+
+2. Describe los medios físicos y de propagación de ondas por las que se transmite la información en internet.
+R=
+
+3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+R=
