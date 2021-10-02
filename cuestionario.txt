@@ -30,11 +30,20 @@ a internet.
 HTML es el lenguaje marcado para buscar paginas osea se (Codigo)
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves píblicas.
-R= 
+R= Yo antes pensaba que hacer una contraseña o una clave era simplemente intruducir una secuancia de letras, pero con el video ahora entiendo que los peligros 
+que pueden existir en internet, con los chicos malos que pueden robar tu información como las contraseñas, tarjetas de crédito, emails, etc. Ahora puedo tener 
+algunas ideas para poder mejorar mi contraseña y sea aún más segura. Sobre las llaves públicas tengo mucho que aprender de esto, ya que normalmente no reviso los 
+protocolos de seguridad del navegador, como el http que es una llave pública donde podemos compartir información de forma segura en la página en la que estamos. 
+Como conclusíon hay que tener más cuidado en las páginas que visitamos, yconfirmar que sean 100% seguras.
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R= Lo primero es instalar un software de seguridad, lo demas viene de nuestra parte. Tambien podemos usar diferentes IP, y no confiar en ningun correo
 email por mas confiable que parezca.
 
 8.¿Cómo funciona la búsqueda de Google?
-R=
+R= Cuando hacemos una busqueda, los buscadores no van a internet a hacer la busqueda en tiempo real, ya que eso tardaria mucho tiempo por que hay demasiadas 
+páginas de internet que son creadas a cada minuto, por eso para hacer una busqueda más rapida los buscadores están explorando la web para poder recopilar la información 
+que te puede ser util en tu busqueda. 
+
+Google inventó el algoritmo más famoso para poder mostrar los resultados más relevantes en una busqueda, su idea es que si muchos sitios web creen que una página es interesante 
+es por que es lo que las personas están buscando. Fue llamado clasificación de página 
