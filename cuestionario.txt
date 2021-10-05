@@ -6,39 +6,39 @@ José Emilio Ponce Ríos
 1. En tus palabras, ¿Qué es internet?
 R= El internet es una red de redes que se mueve por todos los dispositivos del mundo, este se mueve a partir de Bits que pueden viajar 
 a la velocidad de la luz o de la electricidad, dependiendo la velocidad que necesites, viajan a travez de ceros y unos que los conocemos 
-coloquialmente como codigo binario.
+coloquialmente como codigo binario. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 2. Describe los medios físicos y de propagación de ondas por las que se transmite la información en internet.
 R= En la actualidad se mandan bits físicamente a través de la electricidad, luz y radio ondas, para mandar un bit por electricidad 
 los operadores se ponen de acuerdo en que 1 es x y 0 es y, en el caso de un foco 1 es luz encendida y 0 es luz apagada, y así se logra la 
 manera en que se envian los bits de una persona a otra. Las ondas que se usan para transmitir información de internet son unas máquinas 
 de bits inalámbricas que usan señales de radio para poder mandar bits de un lugar a otro. Estás maquinas
-tienen que traducir los unos y ceros a ondas de radio de distintas frecuencias, así se logra las conexiones inalambricas. 
+tienen que traducir los unos y ceros a ondas de radio de distintas frecuencias, así se logra las conexiones inalambricas. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R= Todos los dispositivos estan conectados a una IP, esta da informacion a mas dispositivos en la red mediante direcciones del dispositivo
-como por ejemplo tu direccion (Pais Lugar). Funciona como una mensajeria que entrega los mensajes enviados.
+como por ejemplo tu direccion (Pais Lugar). Funciona como una mensajeria que entrega los mensajes enviados. <!-- ---- 5oct | @SRTP: ¿Y los DNS? -0.5 ----  -->
 
 4. Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañia a tu celular.
 R= Los datos viajan por el internet de una mejor manera, TCP (Protocolo de Control para la Transmisión), el resive los datos como paquetes, cuando 
 se solicita una canción Spotify manda la canción en muchos paquetes, TCP los recive y manda una contestación de cada paquete resibido, si todos están ahí 
-TCP firma por el envió y termina. 
+TCP firma por el envió y termina. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 5. Describe los protocolos que existen en internet, en específico HTTP y HTML.
 R= Hypertext Transfer Protocol (HTTP) en ingles, es un protocolo de navegacion que nos permite conectarnos con cualquier servidor que este conectado 
 a internet.
-HTML es el lenguaje marcado para buscar paginas osea se (Codigo)
+HTML es el lenguaje marcado para buscar paginas osea se (Codigo) <!-- ---- 5oct | @SRTP: ok ----  -->
 
 6. En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves píblicas.
 R= Yo antes pensaba que hacer una contraseña o una clave era simplemente intruducir una secuancia de letras, pero con el video ahora entiendo que los peligros 
 que pueden existir en internet, con los chicos malos que pueden robar tu información como las contraseñas, tarjetas de crédito, emails, etc. Ahora puedo tener 
 algunas ideas para poder mejorar mi contraseña y sea aún más segura. Sobre las llaves públicas tengo mucho que aprender de esto, ya que normalmente no reviso los 
 protocolos de seguridad del navegador, como el http que es una llave pública donde podemos compartir información de forma segura en la página en la que estamos. 
-Como conclusíon hay que tener más cuidado en las páginas que visitamos, yconfirmar que sean 100% seguras.
+Como conclusíon hay que tener más cuidado en las páginas que visitamos, yconfirmar que sean 100% seguras. <!-- ---- 5oct | @SRTP: ok ----  -->
 
 7. En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 R= Lo primero es instalar un software de seguridad, lo demas viene de nuestra parte. Tambien podemos usar diferentes IP, y no confiar en ningun correo
-email por mas confiable que parezca.
+email por mas confiable que parezca. <!-- ---- 5oct | @SRTP: respuesta demasiado cota, se pedían dos párrafos -0.5 ----  -->
 
 8.¿Cómo funciona la búsqueda de Google?
 R= Cuando hacemos una busqueda, los buscadores no van a internet a hacer la busqueda en tiempo real, ya que eso tardaria mucho tiempo por que hay demasiadas 
@@ -46,4 +46,4 @@ páginas de internet que son creadas a cada minuto, por eso para hacer una busqu
 que te puede ser util en tu busqueda. 
 
 Google inventó el algoritmo más famoso para poder mostrar los resultados más relevantes en una busqueda, su idea es que si muchos sitios web creen que una página es interesante 
-es por que es lo que las personas están buscando. Fue llamado clasificación de página 
+es por que es lo que las personas están buscando. Fue llamado clasificación de página  <!-- ---- 5oct | @SRTP: ok ----  -->
